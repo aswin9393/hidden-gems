@@ -7,7 +7,7 @@ In the near Future we plan to adopt the ERC-404 standard. we will switch to ERC-
 
 Please Follow our social media to keep up to date :
 
-twitter : https://twitter.com/hiddensatoshi_
+twitter : https://twitter.com/hiddensatoshi_ 
 
 website : https://hidden-gems.com (in development)
 
